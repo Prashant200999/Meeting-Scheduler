@@ -17,7 +17,7 @@ const BookingSchedule = () => {
   const [showBookingDetails, setShowBookingDetails] = useState(false);
 
   const [showMeetingSchedule, setShowMeetingSchedule] = useState(true);
-  const [showNextComponent, setShowNextComponent] = useState(false); 
+  
   
   const handleDateChange = (newDate) => {
     setDate(newDate instanceof Date ? [newDate] : newDate);
@@ -41,7 +41,7 @@ const BookingSchedule = () => {
   
     const handleNextClick = () => {
     setShowBookingDetails(true);
-    setShowNextComponent(true); 
+    
     setShowMeetingSchedule(false);
 
 

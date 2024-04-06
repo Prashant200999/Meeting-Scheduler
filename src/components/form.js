@@ -15,14 +15,14 @@ const Form = () => {
     nameOfWorkspace:''
    });
  
-   const [numOfGuestsAdded, setNumOfGuestsAdded] = useState(0);
+   
    const [showSubmissionCard, setShowSubmissionCard] = useState(false);
    const [isAddGuestClicked, setIsAddGuestClicked] = useState(false);
 
    const handleAddGuest = (e) => {
     e.preventDefault(); 
     setIsAddGuestClicked(true);
-    setNumOfGuestsAdded((prevCount) => prevCount);
+    
   };
 
    const handleInputChange = (e) => {
