@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Meeting-Schedule/static/css/main.328a6155.css",
+    "main.js": "/Meeting-Schedule/static/js/main.c9179a67.js",
+    "static/js/453.0bd8d4a2.chunk.js": "/Meeting-Schedule/static/js/453.0bd8d4a2.chunk.js",
+    "index.html": "/Meeting-Schedule/index.html",
+    "main.328a6155.css.map": "/Meeting-Schedule/static/css/main.328a6155.css.map",
+    "main.c9179a67.js.map": "/Meeting-Schedule/static/js/main.c9179a67.js.map",
+    "453.0bd8d4a2.chunk.js.map": "/Meeting-Schedule/static/js/453.0bd8d4a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328a6155.css",
+    "static/js/main.c9179a67.js"
+  ]
+}
